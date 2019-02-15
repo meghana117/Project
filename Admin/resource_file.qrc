@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>StyleSheet.qss</file>
+        <file>../images/dr-ait-logo.png</file>
+        <file>../images/logo.jpeg</file>
+        <file>../images/add_group-512.png</file>
+        <file>../images/background.jpg</file>
+        <file>../images/contact.png</file>
+        <file>../images/filter_and_sort.png</file>
+        <file>../images/IT-Companies-Logos[3].jpg</file>
+        <file>../images/jobs-design-over-black-background-450w-145615210.jpg</file>
+        <file>../images/jogg-inc-jobs-senior-backend-developer.png</file>
+        <file>../images/logout.png</file>
+        <file>../images/papers.png</file>
+        <file>../images/placed.png</file>
+        <file>../images/placement.png</file>
+        <file>../images/search.png</file>
+        <file>../images/Search-icon.jpg</file>
+        <file>../images/student_add-512.png</file>
+        <file>../images/training.png</file>
+        <file>../images/update.png</file>
+    </qresource>
+</RCC>
